@@ -1,4 +1,9 @@
-### Hi there 👋
+### I am a ReactJS-focused web developer with expertise in creating dynamic and responsive user interfaces for web applications. Skilled in component-based architecture, state management, and modern
+JavaScript frameworks, I excel at building single-page applications and optimizing performance. With
+a solid foundation in HTML, CSS, and JavaScript, I leverage front-end tools to streamline development
+processes. Collaborative and detail-oriented, I effectively translate designs into functional code, ensuring pixel-perfect implementation while maintaining code quality and scalability. Staying up-to-date with
+industry trends and best practices, I am dedicated to delivering high-quality, user-centric applications,
+thriving in fast-paced environments and solving problems effectively.
 
 <!--
 **uhuddurmus/uhuddurmus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
