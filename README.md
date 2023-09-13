@@ -12,7 +12,5 @@ thriving in fast-paced environments and solving problems effectively.
 
 <p><img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=uhuddurmus&show_icons=true&locale=en&layout=compact" alt = "uhuddurmus" /> </p>
 
-<p> <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=uhuddurmus&show_icons=true&locale=en" alt = "uhuddurmus" /> </p>
 
-<p><img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=uhuddurmus&" alt = "uhuddurmus" /></p>
 
