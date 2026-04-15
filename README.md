@@ -1,23 +1,25 @@
-### I am a ReactJS-focused web developer with expertise in creating dynamic and responsive user interfaces for web applications. Skilled in component-based architecture, state management, and modern
-JavaScript frameworks, I excel at building single-page applications and optimizing performance. With
-a solid foundation in HTML, CSS, and JavaScript, I leverage front-end tools to streamline development
-processes. Collaborative and detail-oriented, I effectively translate designs into functional code, ensuring pixel-perfect implementation while maintaining code quality and scalability. Staying up-to-date with
-industry trends and best practices, I am dedicated to delivering high-quality, user-centric applications,
-thriving in fast-paced environments and solving problems effectively.
 
--🔭 I am currently working in every field, trying to improve myself
+## 🚀 About Me
+I'm a full stack developer...
 
-<div>
-<h3 > Skills:</h3>
-<p> <a href = "https://getbootstrap.com" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon /master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt = "bootstrap" width = "40" height = "40"/> </a> <a href = "https://www.cprogramming.com /" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt = "c" genişlik ="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt = " cplusplus" width = "40" height = "40"/> </a> <a href = "https://www.w3schools.com/cs/" target = "_blank" rel = "noreferrer"> <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt = "csharp" width = "40" height = "40"/> </a>  <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt = "css3" width = "40" height = "40"/> </a> <a href = "https:// www.w3.org/html/" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt = "html5" width = "40" height = "40"/> </a> <a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript" hedefi ="_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt = "javascript" width = "40" height = "40"/> </a> <a href = "https://reactjs.org/" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt = "react" width = "40" height = "40"/>  <a href = "https://redux.js.org" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt = "redux" genişlik ="40" height = "40"/> </a> <a href = "https://sass-lang.com" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt = "sass" width = "40" height = "40"/> </a> <a href = "https: //www.typescriptlang.org/" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt = "typescript" width = "40" height = "40"/> </a> </p>
-</div>
-<p><img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=uhuddurmus&show_icons=true&locale=en&layout=compact" alt = "uhuddurmus" /> </p>
+My journey with software started at the age of six with computer games and has led me to become a Security Engineer specialized in cybersecurity. I graduated from Karadeniz Technical University with a degree in Computer Engineering and have gained experience in both software development and cybersecurity. I have built strong software solutions using technologies such as React, Redux, Angular, C#, .NET, Node.js, and MongoDB. I have also worked with Trend Micro security products (Deep Discovery, Apex One, Email Inspector, etc.). My goal is to apply my creativity, problem-solving
+skills, and security expertise to new challenges.
+## 🛠 Skills
 
+Software Technologies : Angular, React.js, Redux, Next.js, Node.js, MongoDB, C#, .NET, HTML, CSS, JS, Python
 
+UI Frameworks : Core UI, Metronic, Material UI, React Bootstrap
 
+Cybersecurity : Trend Micro Deep Discovery, Apex One, Email Inspector, Network Security, Endpoint Security, Cloud Security, Email & Collaboration Security, Security Operations, Cyber Risk Exposure Management
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mustafauhuddurmus.netlify.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uhud-mustafa-durmus/)
+
+
+
+<p><img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=uhuddurmus&show_icons=true&locale=en&layout=compact" alt = "uhuddurmus" /> </p>
+
+
 
 
 
